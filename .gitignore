@@ -1,0 +1,4 @@
+database/proxy.db
+__pycache__/
+*.pyc
+.DS_Store
